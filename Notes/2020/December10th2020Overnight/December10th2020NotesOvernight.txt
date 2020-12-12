@@ -1,0 +1,19 @@
+Gaslight Galactica
+
+Server creation
+LAN
+WLAN
+Global
+Game types:
+Imposter count: 0-100
+Crewmate count: 1-100
+Master (admin) count: 0-56
+Color palletes: 16 color, 12 color, 10 color, 8 color, 4 color, 2 color
+Task system
+Map selection
+Map builder
+{
+10+ year challenge
+Keep building your colony
+Offline mode }
+Allow imposter and/or crewmate ranks (helps prevent people from disconnecting due to not getting imposter or crewmate, as it requires an older account, and adds consequence for leaving early too often. If your battery or Internet dies, too bad (not required for server creation, ranks only lost on rank-enabled servers))
